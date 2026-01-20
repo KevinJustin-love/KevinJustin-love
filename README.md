@@ -16,24 +16,18 @@ I am [Jiajun Peng](https://KevinJustin-love.github.io/), an undergraduate studen
 ## Skills
 
 - 💻 Programming Languages: Python, C++, MATLAB, Mathmatica
-- 🧠 Deep Learning Frameworks: TensorFlow, PyTorch
-- 📊 Data Analysis: Pandas, NumPy
-- 🌐 Web Development: HTML, CSS, JavaScript, Vue
-- 🛠️ Tools: Git, Docker
+- 🧠 Deep Learning Frameworks: PyTorch
+- 🌐 Web Development: HTML, CSS, React, Django
+- 🛠️ Tools: Git, Latex
 
-## Let's Connect
+## Contact me
 
-- 📫 You can reach out to me via email at [cyd0806@mail.ustc.edu.cn](mailto:cyd0806@mail.ustc.edu.cn).
-- 💼 I'm eager to connect with fellow deep learning enthusiasts and graduate researchers who share similar interests and are passionate about advancing the frontiers of AI in these domains.
-- 📍 USTC Gaoxin campus, Hefei, Anhui, China
-
+- 📫 You can reach out to me via email at pjj2006@mail.ustc.edu.cn.
+- 📍 Hefei, Anhui, China
 
 Feel free to drop me an email to discuss potential collaborations, share your ideas, or just have a friendly chat!
 
 ## External Links
 
-- [Google Scholar](https://scholar.google.com/citations?user=hCvlj5cAAAAJ&hl=en&oi=ao)
-- [Kaggle](https://www.kaggle.com/yindachen/Home)
-- [Linkin](https://www.linkedin.com/in/%E8%83%A4%E8%BE%BE-%E9%99%88-37632a200/)
-- [知乎](https://www.zhihu.com/people/qi-zhu-dou-feng-67-82)
-- [wechat](https://github.com/ydchen0806/ydchen0806/blob/main/wechat_QRcode.png)
+- [wechat]()
+- [QQ]()
