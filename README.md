@@ -13,19 +13,30 @@ I am [Jiajun Peng](https://KevinJustin-love.github.io/), an undergraduate studen
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinJustin-love&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)
 <!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinJustin-love&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only) -->
 
-## Skills
+### 🛠️ Skills & Tech Stack
 
-- 💻 Programming Languages: Python, C++, MATLAB, Mathmatica
-- 🧠 Deep Learning Frameworks: PyTorch
-- 🌐 Web Development: HTML, CSS, React, Django
-- 🛠️ Tools: Git, Latex
+- **💻 Programming Languages**: C++, Python
+- **🧠 Deep Learning**: PyTorch 
+- **🌐 Web Development**: 
+  - *Frontend:* React, Vite, HTML5, CSS
+  - *Backend:* Django
+- **✍️ Tools & Others**: Git, LaTeX
 
-## Contact me
+---
 
-- 📫 You can reach out to me via email at pjj2006@mail.ustc.edu.cn.
-- 📍 Hefei, Anhui, China
+## 📬 Contact & Connect
 
-Feel free to drop me an email to discuss potential collaborations, share your ideas, or just have a friendly chat!
+<p align="left">
+  <a href="mailto:pjj2006@mail.ustc.edu.cn">
+    <img src="https://img.shields.io/badge/Email-pjj2006%40mail.ustc.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://img.shields.io/badge/Location-Hefei,%20China-00897b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/University-USTC-004151?style=flat-square&logo=education&logoColor=white" alt="University" />
+</p>
+
+> 🤝 **Open to collaboration!** Whether it's about Deep Learning research, Full-stack development, or just a friendly chat about technology, feel free to reach out.
+
+---
 
 ## External Links
 
