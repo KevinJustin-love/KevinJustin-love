@@ -40,5 +40,5 @@ I am [Jiajun Peng](https://KevinJustin-love.github.io/), an undergraduate studen
 
 ## External Links
 
-- [wechat]()
-- [QQ]()
+- WeChat: pjj2006QaQ
+- QQ: 2651576672
