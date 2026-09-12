@@ -40,6 +40,7 @@ My current work and learning centers on multimodal learning as a foundation for 
 [![Repositories](https://img.shields.io/badge/Repositories-View%20on%20GitHub-A78BFA?style=flat-square&logo=github)](https://github.com/KevinJustin-love?tab=repositories)
 
 </div>
+
 ## Connect
 
 - 📍 Hefei, China
@@ -61,6 +62,7 @@ My current work and learning centers on multimodal learning as a foundation for 
 - [Notes index](./notes/README.md)
 - [Codex 使用指南](./notes/codex/usage-guide.md)
 - [Claude Code 使用教程](./notes/claude-code/usage-guide.md)
+
 
 
 
