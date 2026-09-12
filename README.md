@@ -15,11 +15,11 @@
 
 I am an undergraduate student majoring in Data Science at USTC. I am interested in how intelligent agents build predictive models of the world and use them to perceive, plan, and act.
 
-My current work and learning center on video understanding and multimodal learning as foundations for capable embodied agents.
+My current work and learning centers on multimodal learning as a foundation for capable embodied agents.
 
 ## Research Interests
 
-- **World Models** — predictive representations, video dynamics, and learning structured models of the environment
+- **World Models** — predictive representations, learned dynamics, and structured models of the environment
 - **Embodied Intelligence** — agents that connect perception, reasoning, planning, and action
 - **Vision-Language-Action Models** — grounding language and vision in interactive behavior
 - **Spatial Intelligence** — understanding scenes, geometry, and the relationships between objects
@@ -61,5 +61,6 @@ My current work and learning center on video understanding and multimodal learni
 - [Notes index](./notes/README.md)
 - [Codex 使用指南](./notes/codex/usage-guide.md)
 - [Claude Code 使用教程](./notes/claude-code/usage-guide.md)
+
 
 
