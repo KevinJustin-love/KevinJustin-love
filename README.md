@@ -4,7 +4,7 @@
 
 **Undergraduate Student · Data Science @ [USTC](https://www.ustc.edu.cn/)**
 
-**World Models · Embodied Intelligence · Video Understanding**
+**World Models · Embodied Intelligence**
 
 [![Website](https://img.shields.io/badge/Website-KevinJustin--love.github.io-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://KevinJustin-love.github.io/)
 [![Email](https://img.shields.io/badge/Email-pjj2006%40mail.ustc.edu.cn-2DD4BF?style=flat-square&logo=gmail&logoColor=white)](mailto:pjj2006@mail.ustc.edu.cn)
@@ -23,7 +23,6 @@ My current work and learning center on video understanding and multimodal learni
 - **Embodied Intelligence** — agents that connect perception, reasoning, planning, and action
 - **Vision-Language-Action Models** — grounding language and vision in interactive behavior
 - **Spatial Intelligence** — understanding scenes, geometry, and the relationships between objects
-- **Video Understanding** — learning from temporal and multimodal information
 
 ## Skills
 
@@ -62,4 +61,5 @@ My current work and learning center on video understanding and multimodal learni
 - [Notes index](./notes/README.md)
 - [Codex 使用指南](./notes/codex/usage-guide.md)
 - [Claude Code 使用教程](./notes/claude-code/usage-guide.md)
+
 
