@@ -1,44 +1,58 @@
-# Hi there! 👋
+<div align="center">
 
-I am [Jiajun Peng](https://KevinJustin-love.github.io/), an undergraduate student majoring in data science at [USTC](https://sist.ustc.edu.cn/main.htm). Here's a little bit about me:
+# Hi, I'm Jiajun Peng 👋
 
+**Undergraduate Student · Data Science @ [USTC](https://www.ustc.edu.cn/)**
 
-- 👀 I am passionate about VLM and spatial intelligence. My research focuses on video understanding now.
-- 🌱 I am currently exploring the fascinating world of computer science and technology at USTC. 
-- 📄 My resume is coming soon...
+**World Models · Embodied Intelligence · Video Understanding**
 
-![Profile views](https://komarev.com/ghpvc/?username=KevinJustin-love)
+[![Website](https://img.shields.io/badge/Website-KevinJustin--love.github.io-58A6FF?style=flat-square&logo=googlechrome&logoColor=white)](https://KevinJustin-love.github.io/)
+[![Email](https://img.shields.io/badge/Email-pjj2006%40mail.ustc.edu.cn-2DD4BF?style=flat-square&logo=gmail&logoColor=white)](mailto:pjj2006@mail.ustc.edu.cn)
 
-![KevinJustin-love's GitHub stats](https://github-readme-stats.vercel.app/api?username=KevinJustin-love&show_icons=true&theme=dark#gh-dark-mode-only)  
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinJustin-love&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only)
-<!-- ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=KevinJustin-love&layout=compact&hide_progress=true&theme=dark#gh-dark-mode-only) -->
+</div>
 
-### 🛠️ Skills & Tech Stack
+## About
 
-- **💻 Programming Languages**: C++, Python
-- **🧠 Deep Learning**: PyTorch 
-- **🌐 Web Development**: 
-  - *Frontend:* React, Vite, HTML5, CSS
-  - *Backend:* Django
-- **✍️ Tools & Others**: Git, LaTeX
+I am an undergraduate student majoring in Data Science at USTC. I am interested in how intelligent agents build predictive models of the world and use them to perceive, plan, and act.
+
+My current work and learning center on video understanding and multimodal learning as foundations for capable embodied agents.
+
+## Research Interests
+
+- **World Models** — predictive representations, video dynamics, and learning structured models of the environment
+- **Embodied Intelligence** — agents that connect perception, reasoning, planning, and action
+- **Vision-Language-Action Models** — grounding language and vision in interactive behavior
+- **Spatial Intelligence** — understanding scenes, geometry, and the relationships between objects
+- **Video Understanding** — learning from temporal and multimodal information
+
+## Skills
+
+- **Languages:** C++, Python
+- **Deep Learning:** PyTorch
+- **Web:** React, Vite, HTML5, CSS, Django
+- **Tools:** Git, LaTeX
+
+## GitHub Activity
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=KevinJustin-love&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=2DD4BF&bg_color=0D1117" alt="GitHub stats" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinJustin-love&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+
+</div>
+
+## Connect
+
+- 📍 Hefei, China
+- 💬 WeChat: `pjj2006QaQ`
+- 🐧 QQ: `2651576672`
+
+> 🤝 I am open to collaborations on world models, embodied agents, multimodal learning, and related projects. Feel free to reach out!
 
 ---
 
-## 📬 Contact & Connect
+<div align="center">
 
-<p align="left">
-  <a href="mailto:pjj2006@mail.ustc.edu.cn">
-    <img src="https://img.shields.io/badge/Email-pjj2006%40mail.ustc.edu.cn-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <img src="https://img.shields.io/badge/Location-Hefei,%20China-00897b?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
-  <img src="https://img.shields.io/badge/University-USTC-004151?style=flat-square&logo=education&logoColor=white" alt="University" />
-</p>
+![Profile views](https://komarev.com/ghpvc/?username=KevinJustin-love&color=2DD4BF&style=flat-square)
 
-> 🤝 **Open to collaboration!** Whether it's about Deep Learning research, Full-stack development, or just a friendly chat about technology, feel free to reach out.
-
----
-
-## External Links
-
-- WeChat: pjj2006QaQ
-- QQ: 2651576672
+</div>
