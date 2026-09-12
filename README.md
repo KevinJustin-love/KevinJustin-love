@@ -36,11 +36,11 @@ My current work and learning center on video understanding and multimodal learni
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=KevinJustin-love&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&icon_color=2DD4BF&bg_color=0D1117" alt="GitHub stats" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevinJustin-love&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=C9D1D9&bg_color=0D1117" alt="Top languages" />
+[![GitHub followers](https://img.shields.io/github/followers/KevinJustin-love?style=flat-square&label=Followers&color=58A6FF)](https://github.com/KevinJustin-love?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/KevinJustin-love?style=flat-square&label=Stars&color=2DD4BF)](https://github.com/KevinJustin-love?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-View%20on%20GitHub-A78BFA?style=flat-square&logo=github)](https://github.com/KevinJustin-love?tab=repositories)
 
 </div>
-
 ## Connect
 
 - 📍 Hefei, China
@@ -62,3 +62,4 @@ My current work and learning center on video understanding and multimodal learni
 - [Notes index](./notes/README.md)
 - [Codex 使用指南](./notes/codex/usage-guide.md)
 - [Claude Code 使用教程](./notes/claude-code/usage-guide.md)
+
