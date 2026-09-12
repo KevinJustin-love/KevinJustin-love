@@ -56,3 +56,9 @@ My current work and learning center on video understanding and multimodal learni
 ![Profile views](https://komarev.com/ghpvc/?username=KevinJustin-love&color=2DD4BF&style=flat-square)
 
 </div>
+
+## Notes
+
+- [Notes index](./notes/README.md)
+- [Codex 使用指南](./notes/codex/usage-guide.md)
+- [Claude Code 使用教程](./notes/claude-code/usage-guide.md)
